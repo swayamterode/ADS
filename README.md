@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/swayamterode/ADS/tree/master/0141-linked-list-cycle) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,8 +27,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayamterode/ADS/tree/master/2553-separate-the-digits-in-an-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayamterode/ADS/tree/master/2553-separate-the-digits-in-an-array) |
+## String
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
