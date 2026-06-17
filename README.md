@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/swayamterode/ADS/tree/master/0141-linked-list-cycle) |
+| [0844-backspace-string-compare](https://github.com/swayamterode/ADS/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/swayamterode/ADS/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/swayamterode/ADS/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayamterode/ADS/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/swayamterode/ADS/tree/master/3612-process-string-with-special-operations-i) |
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/swayamterode/ADS/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/swayamterode/ADS/tree/master/2390-removing-stars-from-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/swayamterode/ADS/tree/master/3612-process-string-with-special-operations-i) |
@@ -47,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/swayamterode/ADS/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/swayamterode/ADS/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
