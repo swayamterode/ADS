@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/swayamterode/ADS/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/swayamterode/ADS/tree/master/1732-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swayamterode/ADS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayamterode/ADS/tree/master/2553-separate-the-digits-in-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swayamterode/ADS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/swayamterode/ADS/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/swayamterode/ADS/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swayamterode/ADS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/swayamterode/ADS/tree/master/2390-removing-stars-from-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/swayamterode/ADS/tree/master/3612-process-string-with-special-operations-i) |
