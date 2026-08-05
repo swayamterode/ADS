@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swayamterode/ADS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/swayamterode/ADS/tree/master/0141-linked-list-cycle) |
 | [0844-backspace-string-compare](https://github.com/swayamterode/ADS/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
 | [0303-range-sum-query-immutable](https://github.com/swayamterode/ADS/tree/master/0303-range-sum-query-immutable) |
 | [0860-lemonade-change](https://github.com/swayamterode/ADS/tree/master/0860-lemonade-change) |
 | [1732-find-the-highest-altitude](https://github.com/swayamterode/ADS/tree/master/1732-find-the-highest-altitude) |
@@ -111,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/swayamterode/ADS/tree/master/0860-lemonade-change) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
