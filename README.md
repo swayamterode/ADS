@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swayamterode/ADS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/swayamterode/ADS/tree/master/0141-linked-list-cycle) |
+| [0997-find-the-town-judge](https://github.com/swayamterode/ADS/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/swayamterode/ADS/tree/master/1189-maximum-number-of-balloons) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
 | [0303-range-sum-query-immutable](https://github.com/swayamterode/ADS/tree/master/0303-range-sum-query-immutable) |
 | [0860-lemonade-change](https://github.com/swayamterode/ADS/tree/master/0860-lemonade-change) |
+| [0997-find-the-town-judge](https://github.com/swayamterode/ADS/tree/master/0997-find-the-town-judge) |
 | [1732-find-the-highest-altitude](https://github.com/swayamterode/ADS/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swayamterode/ADS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayamterode/ADS/tree/master/2553-separate-the-digits-in-an-array) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/swayamterode/ADS/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
