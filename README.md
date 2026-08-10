@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/swayamterode/ADS/tree/master/0997-find-the-town-judge) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/swayamterode/ADS/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
