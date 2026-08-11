@@ -134,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/swayamterode/ADS/tree/master/0197-rising-temperature) |
 | [1148-article-views-i](https://github.com/swayamterode/ADS/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
