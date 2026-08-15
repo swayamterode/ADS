@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swayamterode/ADS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swayamterode/ADS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/swayamterode/ADS/tree/master/0141-linked-list-cycle) |
 | [0997-find-the-town-judge](https://github.com/swayamterode/ADS/tree/master/0997-find-the-town-judge) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swayamterode/ADS/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
 | [0303-range-sum-query-immutable](https://github.com/swayamterode/ADS/tree/master/0303-range-sum-query-immutable) |
 | [0860-lemonade-change](https://github.com/swayamterode/ADS/tree/master/0860-lemonade-change) |
