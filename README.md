@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/swayamterode/ADS/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayamterode/ADS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/swayamterode/ADS/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/swayamterode/ADS/tree/master/0303-range-sum-query-immutable) |
 | [0860-lemonade-change](https://github.com/swayamterode/ADS/tree/master/0860-lemonade-change) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1148-article-views-i](https://github.com/swayamterode/ADS/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/swayamterode/ADS/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/swayamterode/ADS/tree/master/1280-students-and-examinations) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayamterode/ADS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
