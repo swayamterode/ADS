@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/swayamterode/ADS/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/swayamterode/ADS/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/swayamterode/ADS/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/swayamterode/ADS/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/swayamterode/ADS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/swayamterode/ADS/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/swayamterode/ADS/tree/master/0217-contains-duplicate) |
+| [0460-lfu-cache](https://github.com/swayamterode/ADS/tree/master/0460-lfu-cache) |
 | [0997-find-the-town-judge](https://github.com/swayamterode/ADS/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/swayamterode/ADS/tree/master/1189-maximum-number-of-balloons) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/swayamterode/ADS/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/swayamterode/ADS/tree/master/0460-lfu-cache) |
 ## Tree
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayamterode/ADS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/swayamterode/ADS/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
