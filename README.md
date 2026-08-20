@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayamterode/ADS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/swayamterode/ADS/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/swayamterode/ADS/tree/master/0303-range-sum-query-immutable) |
+| [0682-baseball-game](https://github.com/swayamterode/ADS/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/swayamterode/ADS/tree/master/0860-lemonade-change) |
 | [0997-find-the-town-judge](https://github.com/swayamterode/ADS/tree/master/0997-find-the-town-judge) |
 | [1732-find-the-highest-altitude](https://github.com/swayamterode/ADS/tree/master/1732-find-the-highest-altitude) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/swayamterode/ADS/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/swayamterode/ADS/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/swayamterode/ADS/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayamterode/ADS/tree/master/2553-separate-the-digits-in-an-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/swayamterode/ADS/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/swayamterode/ADS/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/swayamterode/ADS/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
