@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayamterode/ADS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/swayamterode/ADS/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/swayamterode/ADS/tree/master/0303-range-sum-query-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swayamterode/ADS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0682-baseball-game](https://github.com/swayamterode/ADS/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/swayamterode/ADS/tree/master/0860-lemonade-change) |
 | [0997-find-the-town-judge](https://github.com/swayamterode/ADS/tree/master/0997-find-the-town-judge) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/swayamterode/ADS/tree/master/0217-contains-duplicate) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swayamterode/ADS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quicksort
 |  |
 | ------- |
@@ -159,8 +161,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayamterode/ADS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swayamterode/ADS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/swayamterode/ADS/tree/master/0460-lfu-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swayamterode/ADS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swayamterode/ADS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
