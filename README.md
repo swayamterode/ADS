@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/swayamterode/ADS/tree/master/0997-find-the-town-judge) |
 | [1732-find-the-highest-altitude](https://github.com/swayamterode/ADS/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swayamterode/ADS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/swayamterode/ADS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/swayamterode/ADS/tree/master/2553-separate-the-digits-in-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/swayamterode/ADS/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/swayamterode/ADS/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/swayamterode/ADS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
