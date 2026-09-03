@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/swayamterode/ADS/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/swayamterode/ADS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayamterode/ADS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/swayamterode/ADS/tree/master/0110-balanced-binary-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/swayamterode/ADS/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/swayamterode/ADS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swayamterode/ADS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/swayamterode/ADS/tree/master/0110-balanced-binary-tree) |
@@ -177,4 +179,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swayamterode/ADS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/swayamterode/ADS/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/swayamterode/ADS/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/swayamterode/ADS/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
