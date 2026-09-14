@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/swayamterode/ADS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swayamterode/ADS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/swayamterode/ADS/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/swayamterode/ADS/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/swayamterode/ADS/tree/master/0217-contains-duplicate) |
 | [0460-lfu-cache](https://github.com/swayamterode/ADS/tree/master/0460-lfu-cache) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swayamterode/ADS/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/swayamterode/ADS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayamterode/ADS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/swayamterode/ADS/tree/master/0217-contains-duplicate) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swayamterode/ADS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swayamterode/ADS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/swayamterode/ADS/tree/master/0049-group-anagrams) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swayamterode/ADS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/swayamterode/ADS/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/swayamterode/ADS/tree/master/0844-backspace-string-compare) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/swayamterode/ADS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/swayamterode/ADS/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swayamterode/ADS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
