@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1148-article-views-i](https://github.com/swayamterode/ADS/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/swayamterode/ADS/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/swayamterode/ADS/tree/master/1280-students-and-examinations) |
+| [1667-fix-names-in-a-table](https://github.com/swayamterode/ADS/tree/master/1667-fix-names-in-a-table) |
 ## Binary Search
 |  |
 | ------- |
