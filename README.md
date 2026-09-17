@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/swayamterode/ADS/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/swayamterode/ADS/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/swayamterode/ADS/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/swayamterode/ADS/tree/master/0610-triangle-judgement) |
