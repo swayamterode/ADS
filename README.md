@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/swayamterode/ADS/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/swayamterode/ADS/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swayamterode/ADS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0213-house-robber-ii](https://github.com/swayamterode/ADS/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swayamterode/ADS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/swayamterode/ADS/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/swayamterode/ADS/tree/master/0303-range-sum-query-immutable) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/swayamterode/ADS/tree/master/0096-unique-binary-search-trees) |
+| [0213-house-robber-ii](https://github.com/swayamterode/ADS/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swayamterode/ADS/tree/master/0241-different-ways-to-add-parentheses) |
 ## Binary Search Tree
 |  |
