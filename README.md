@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swayamterode/ADS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/swayamterode/ADS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swayamterode/ADS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/swayamterode/ADS/tree/master/0049-group-anagrams) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swayamterode/ADS/tree/master/0241-different-ways-to-add-parentheses) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/swayamterode/ADS/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/swayamterode/ADS/tree/master/0096-unique-binary-search-trees) |
 | [0213-house-robber-ii](https://github.com/swayamterode/ADS/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swayamterode/ADS/tree/master/0241-different-ways-to-add-parentheses) |
@@ -228,10 +230,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/swayamterode/ADS/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swayamterode/ADS/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/swayamterode/ADS/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/swayamterode/ADS/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
