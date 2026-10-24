@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/swayamterode/ADS/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swayamterode/ADS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/swayamterode/ADS/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/swayamterode/ADS/tree/master/2409-count-days-spent-together) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/swayamterode/ADS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/swayamterode/ADS/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/swayamterode/ADS/tree/master/3498-reverse-degree-of-a-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/swayamterode/ADS/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swayamterode/ADS/tree/master/0241-different-ways-to-add-parentheses) |
+| [2409-count-days-spent-together](https://github.com/swayamterode/ADS/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
